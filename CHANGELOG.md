@@ -1,5 +1,20 @@
 # Changelog
 
+## [9.6.7](https://github.com/npm/cli/compare/v9.6.6...v9.6.7) (2023-05-16)
+
+### Bug Fixes
+
+* [`23c865f`](https://github.com/npm/cli/commit/23c865fcd4bd4ee6957006c7b8f9e8cfde1db321) [#6434](https://github.com/npm/cli/pull/6434) deprecate ci-name config (#6434) (@wraithgar)
+
+### Documentation
+
+* [`7751dd4`](https://github.com/npm/cli/commit/7751dd431ca6ee4a3503fa71bda88a5cd89eb83c) [#6413](https://github.com/npm/cli/pull/6413) add a comma (#6413) (@darryltec)
+
+### Dependencies
+
+* [Workspace](https://github.com/npm/cli/releases/tag/config-v6.1.7): `@npmcli/config@6.1.7`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmpublish-v7.2.0): `libnpmpublish@7.2.0`
+
 ## [9.6.6](https://github.com/npm/cli/compare/v9.6.5...v9.6.6) (2023-05-03)
 
 ### Dependencies
